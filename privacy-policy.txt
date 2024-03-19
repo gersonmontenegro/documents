@@ -1,0 +1,28 @@
+Privacy Policy for Adventist hymns
+Last updated: 19/03/2024
+
+This privacy policy document outlines the types of personal information received and collected by Adventist hymns and how it is used.
+
+1. Information Collection and Use
+Adventis hymns is committed to protecting the privacy of its users. Our app is designed to provide hymns data without requiring any personal information from our users. As such, we do not collect, store, or use any personal data or personally identifiable information (PII) from our users. This ensures that our users can enjoy our services with the assurance that their privacy is fully respected and protected.
+
+2. Log Data
+Adventist hymns does not collect data that personally identifies our users. We believe in the importance of protecting personal privacy and have designed our app accordingly.
+
+3. Children's Privacy
+We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+4. Security
+We take the security of our app and the privacy of our users seriously. As our app is designed to operate without collecting or storing any personal data from our users, there are no personal information transmission or storage practices to safeguard within the context of app usage.
+
+We are committed to ensuring the security of our app through regular software updates and by adhering to best practices in software development and security. This approach minimizes vulnerabilities and helps provide a safe and secure experience for all users.
+
+While we do not collect, store, or process any personal data, we encourage our users to maintain good personal security practices when interacting with any digital products. This includes keeping software up to date, being cautious about the permissions granted to apps, and being aware of the information shared online.
+
+5. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+6. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at gersonmontenegro.stores@gmail.com.
+
+This Privacy Policy page was created at chatGPT for Adventist hymns.
